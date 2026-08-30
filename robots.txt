@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://OtelFiyatcom.github.io/readme-t8jz38/sitemap.xml
